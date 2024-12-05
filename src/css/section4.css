@@ -1,5 +1,3 @@
-
-
 .Section_4 {
   background-color: rgba(244, 240, 236, 1);
   border-radius: 20px;
@@ -52,17 +50,16 @@
   flex-basis: calc(100% / 3);
 }
 
-
-.Name---{
+.Name--- {
   font-family: "DM Serif Display", serif;
   font-weight: 400;
   font-size: 24px;
 }
-.City---{
-  color:rgba(77, 80, 83, 1);
+.City--- {
+  color: rgba(77, 80, 83, 1);
 }
-.what-they-think{
+.what-they-think {
   margin-top: 25px;
   font-size: 20px;
-  color:rgba(77, 80, 83, 1);
+  color: rgba(77, 80, 83, 1);
 }
