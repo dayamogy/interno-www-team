@@ -1,0 +1,89 @@
+.logo-footer {
+  margin-top: 50px;
+  width: 177px;
+  height: 50px;
+}
+.small-logos1 {
+  width: 10px;
+  height: 19px;
+}
+.small-logos2 {
+  width: 18px;
+  height: 15px;
+}
+.small-logos3 {
+  width: 16px;
+  height: 17px;
+}
+.small-logos4 {
+  width: 17px;
+  height: 18px;
+}
+
+.under-logo-text {
+  color: rgba(77, 80, 83, 1);
+  font-size: 22px;
+  font-weight: 400;
+}
+.footer-span-words {
+  color: rgba(205, 162, 116, 1);
+}
+.copyrghtP {
+  color: rgba(77, 80, 83, 1);
+}
+.copyrght {
+  display: flex;
+  justify-content: center;
+  padding: 35px;
+}
+.under-logo {
+  margin-top: 15px;
+  margin-bottom: 31px;
+}
+.small-logos-container {
+  display: flex;
+  gap: 40px;
+}
+
+.footer-container {
+  display: flex;
+  gap: 16px;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.nav-footer,
+.Pages,
+.Explore,
+.Contact {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  margin: 10px;
+}
+.copyrght {
+  text-align: center;
+  margin-top: 20px;
+}
+.social-media a {
+  margin-right: 10px;
+}
+.nav-footer {
+  margin-top: 50px;
+
+  display: flex;
+  gap: 10px;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.pec {
+  font-family: "DM Serif Display", serif;
+  font-size: 25px;
+}
+
+.Pages {
+  margin-left: 83px;
+}
+.footer-nav-text {
+  color: rgba(77, 80, 83, 1);
+}
