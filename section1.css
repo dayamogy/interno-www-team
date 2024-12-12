@@ -1,0 +1,55 @@
+.section1 {
+    height: 115vh;
+    width: 100%;
+    background-image: url(https://s3-alpha-sig.figma.com/img/6179/ea79/4c317bff847c23792d07d9fee1ddb4fa?Expires=1733702400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=cdAlgFFHDO6CVuFloBWy3HRM57rU31b3lrIHyX7VCJshg3ZcjzoS3FpuokTEzCPFjysFwPB81aoPwrTFg66aQzKSYP-c5g2Z4XqNYTB-s3RmQ3eYZDx0v~aul~kU4YFVNWFNUZXZnpdqie999qTEv300Lr4KJDh7IbYzbcQY5otw0JhlhrcWtmf5KAiMm3vBmbJ-7htAhMk0qiBgtsl-eYhkbz6dmPzeW22kX-RmGxNmfVs6eNHhR7vaKBqr59jXCuvRLOH2mVpo~C~pTq-39ecFDhTK9MUDE9vwrGvvFJzzJgJthYAKUMMqAED7IoJiKiJxUHZMNcaiTqercvUfaQ__);
+    overflow: hidden;
+    background-size: cover;
+    border-bottom-left-radius: 350px;
+    box-shadow: -5px 5px 5px rgba(59, 59, 59, 0.337);
+}
+
+.section1Content {
+    width: 600px;
+    height: 400px;
+    margin-top: 195px;
+    margin-left: 120px;
+    flex-direction: column;
+    display: flex;
+    justify-content: space-between;
+}
+
+.section1-title {
+    font-size: 80px;
+    font-family: "DM Serif Display";
+    font-weight: 400;
+    color: #292F36;
+    line-height: 96px;
+}
+
+.section1-paragraph {
+    font-size: 22px;
+    font-weight: 400;
+    color: #4D5053;
+    line-height: 33px;
+}
+
+.section1 button {
+    height: 71px;
+    width: 207px;
+    background-color: #292F36;
+    border-radius: 18px;
+    color: #FFF;
+    font-weight: 400;
+    font-size: 18px;
+    padding: 20px;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.section1 button img {
+    padding: 0 15px;
+    height: 17px;
+    width: auto;
+}
